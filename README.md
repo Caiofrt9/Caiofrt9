@@ -20,10 +20,9 @@ I’m a developer from Brazil passionate about innovation 😃, currently I’m 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Caiofrt9)  
 
   
-  
   ##
   
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Caiofrt9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/caio-fernando-pereira-da-silva-847156214//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://mail.google.com/mail/u/1/#inbox)  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='70'>](https://github.com/Caiofrt9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='70' >](https://www.linkedin.com/in/https://www.linkedin.com/in/caio-fernando-pereira-da-silva-847156214//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='70'>](https://mail.google.com/mail/u/1/#inbox)  
 
 
  
