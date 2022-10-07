@@ -37,26 +37,30 @@
   <img align="center" alt="Caio-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="gif.caio" height="150" style="border-radius:50px;" src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif">
 </div>
+
+</br></br>
 
 </h2>
 
+<div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=caiofrt9&theme=react&border=61dafb&hide_border=true" alt="caiofrt9" />
+    </a>
+    <a href="https://github.com/caiofrt9/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=caiofrt9&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/caiofrt9/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofrt9&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=caiofrt9&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
+<hr>
   
 
-</br>
-
- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Caiofrt9)  
-
-
-  ####
-  
-  
-
-
- 
-<div> 
-  
-
-</div>
