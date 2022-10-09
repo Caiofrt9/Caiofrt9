@@ -21,7 +21,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I'm currently learning to build backend for web applications
   <br>
   📫 How to reach me <a href="mailto: silvacaio295@gmail.com">here</a>
   </br>
