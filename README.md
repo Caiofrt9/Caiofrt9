@@ -1,9 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=caiofrt9.caiofrt9">
-
+<div>
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;My+name+is+Caio+Fernando+;Nice+to+meet+you+%F0%9F%98%83" alt="Typing SVG" /></a>
 </h1>
-
+</div>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/caio-fernando-pereira-da-silva-847156214/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> 
@@ -67,7 +67,7 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=caiofrt9&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
+<h1>
 <hr>
   
 
