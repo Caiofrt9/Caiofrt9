@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=caiofrt9.caiofrt9">
 <div>
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;My+name+is+Caio+Fernando+;Nice+to+meet+you+%F0%9F%98%83" alt="Typing SVG" /></a>
@@ -15,7 +14,7 @@
 
 </br>
 
-<h1 align="center">FrotEnd Developer</h1>
+<h1 align="center">Full-Stack Developer</h1>
 <p align="center">
   
   <br>
