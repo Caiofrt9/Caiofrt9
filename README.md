@@ -24,7 +24,7 @@
   <br>
   📫 How to reach me <a href="mailto: silvacaio295@gmail.com">here</a>
   </br>
-   🔭 I’m currently working on: <a href="https://github.com/Caiofrt9/granadaApp">granadaAPP</a>
+   🔭 I’m currently working on: <a href="https://github.com/Caiofrt9/granadaApp">GranadaAPP</a>
   
 </p>
 
